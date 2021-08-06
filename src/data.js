@@ -164,7 +164,7 @@ const menu = [
     title: 'almendrado con charlotte',
     category: 'postres',
     price: 2.25,
-    img: 'https://www.aprendiendoencasa.com/wp-content/uploads/2009/08/almendrado.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DBuGHeTyxqnqJsq87DvHFTIX0jq3H3PNP7yMdeExmouC9AyLkZc0Un1KGWaeCvKcAew&usqp=CAU',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
