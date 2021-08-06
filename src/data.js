@@ -161,10 +161,10 @@ const menu = [
   },
   {
     id: 21,
-    title: 'almendrado con charlote',
+    title: 'almendrado con charlotte',
     category: 'postres',
     price: 2.25,
-    img: 'http://www.aprendiendoencasa.com/wp-content/uploads/2009/08/almendrado.jpg',
+    img: 'https://www.aprendiendoencasa.com/wp-content/uploads/2009/08/almendrado.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
