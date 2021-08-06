@@ -164,7 +164,7 @@ const menu = [
     title: 'almendrado con charlote',
     category: 'postres',
     price: 2.25,
-    img: 'https://lh3.googleusercontent.com/proxy/-xUq_Lc-OHDlIBf21draFs4at-3iymM78RvBWN3KyFmsBOt_A6kx6I9WghkCTG9mXu3A0Wa96ZlWUD27YFdjc74dUqJwIwEU7jaECSXhY8eTQ9k5r6PexUvkT4nwaMCeQEPF',
+    img: 'http://www.aprendiendoencasa.com/wp-content/uploads/2009/08/almendrado.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
