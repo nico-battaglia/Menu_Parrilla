@@ -156,7 +156,7 @@ const menu = [
     title: 'panqueque manzana al rhum',
     category: 'postres',
     price: 4.25,
-    img: 'https://www.marubotana.tv/wp-content/uploads/2014/07/panqueque-de-manzana-baja.jpg',
+    img: 'https://lasrecetasdelchef.net/wp-content/uploads/2016/11/Panqueque-de-manzanas-al-ron.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
