@@ -1,3 +1,3 @@
 # Menu_Parrilla
-Simple menu for practice React  
+Simple menu
 React app
