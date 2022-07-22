@@ -25,6 +25,7 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: black;
+  background-position: center;
 }
 .title {
   text-align: center;
