@@ -25,9 +25,12 @@ function App() {
 	  <section className="section">
 		  
 		  <div className="title">
-			  <h2>Parrilla "LOS GORDOS"</h2>
-			  <h3>Nuestro Menu</h3>
-			  <div className="underline"></div>
+			<div className='flex'>
+				<img src=".\cutlery.png" alt='fork knife icon'></img>
+				<h2>Parrilla <span className='smallcaps'>"Los Gordos"</span></h2>
+			</div>
+			<h3>Nuestro Menu</h3>
+			<div className="underline"></div>
 		  </div>
 		  
 		  <Categories 

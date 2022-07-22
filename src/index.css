@@ -28,12 +28,27 @@ body{
 }
 .title {
   text-align: center;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   background: rgba(0, 0, 0, 0.85);
   padding: 20px;
   color: white;
   border-radius: 10px;
   font-size: 2rem;
+}
+.flex{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.flex > img{
+  height: 45px;
+  background-color: white;
+  padding: 6px;
+  border-radius: 10px;
+}
+.smallcaps{
+  font-variant: small-caps;
 }
 .underline {
   width: 15rem;
@@ -50,6 +65,7 @@ body{
   background: rgba(0, 0, 0, 0.85);
   border-radius: 10px;
   padding: 10px;
+  gap: 10px;
 }
 .filter-btn {
   margin: 0 0.5rem;
@@ -125,6 +141,12 @@ body{
   padding-top: 1rem;
 }
 
+
+@media screen and (max-width: 600px) {
+  .title{
+    font-size: 1.3rem;
+  }
+}
 @media screen and (min-width: 768px) {
   .menu-item {
     grid-template-columns: 225px 2fr;
