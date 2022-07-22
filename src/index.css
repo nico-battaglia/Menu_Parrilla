@@ -21,7 +21,7 @@ Menu
 ===============
 */
 body{
-  background-image: url("../public/resto-bg.jpeg");
+  background-image: url("./resto-bg.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: black;
