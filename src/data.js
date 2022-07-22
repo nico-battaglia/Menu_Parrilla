@@ -148,7 +148,7 @@ const menu = [
     title: 'panqueque dulce de leche',
     category: 'postres',
     price: 3.50,
-    img: 'https://t1.uc.ltmcdn.com/images/8/1/9/como_hacer_panqueques_con_dulce_de_leche_50918_600.jpg',
+    img: 'https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/5GLEQUJ6URFTVOZ6FG5TORQPZQ.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {

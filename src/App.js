@@ -23,15 +23,18 @@ function App() {
 	
   return <main>
 	  <section className="section">
+		  
 		  <div className="title">
 			  <h2>Parrilla "LOS GORDOS"</h2>
 			  <h3>Nuestro Menu</h3>
 			  <div className="underline"></div>
 		  </div>
+		  
 		  <Categories 
 			  categories={categories} 
 			  filterCategory={filterCategory} 
 			  activeCategory={activeCategory}/>
+		  
 		  <Menu items={menuItems} />
 	  </section>
   </main>
