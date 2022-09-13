@@ -1,7 +1,7 @@
 {
   "main.css": "/Menu_Parrilla/static/css/main.b57ac028.chunk.css",
-  "main.js": "/Menu_Parrilla/static/js/main.e6816ca2.chunk.js",
-  "main.js.map": "/Menu_Parrilla/static/js/main.e6816ca2.chunk.js.map",
+  "main.js": "/Menu_Parrilla/static/js/main.7ce66c05.chunk.js",
+  "main.js.map": "/Menu_Parrilla/static/js/main.7ce66c05.chunk.js.map",
   "static/js/1.756ceed5.chunk.js": "/Menu_Parrilla/static/js/1.756ceed5.chunk.js",
   "static/js/1.756ceed5.chunk.js.map": "/Menu_Parrilla/static/js/1.756ceed5.chunk.js.map",
   "runtime~main.js": "/Menu_Parrilla/static/js/runtime~main.41409250.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/Menu_Parrilla/static/media/resto-bg.2d2a60fb.jpeg",
   "static/css/main.b57ac028.chunk.css.map": "/Menu_Parrilla/static/css/main.b57ac028.chunk.css.map",
   "index.html": "/Menu_Parrilla/index.html",
-  "precache-manifest.48b0271e6f18837bba48497c2b048438.js": "/Menu_Parrilla/precache-manifest.48b0271e6f18837bba48497c2b048438.js",
+  "precache-manifest.2871da272672c08b2877c319cecd2ea0.js": "/Menu_Parrilla/precache-manifest.2871da272672c08b2877c319cecd2ea0.js",
   "service-worker.js": "/Menu_Parrilla/service-worker.js"
 }
