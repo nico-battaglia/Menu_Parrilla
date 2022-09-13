@@ -140,7 +140,7 @@ const menu = [
     title: 'flan casero mixto',
     category: 'postres',
     price: 2.50,
-    img: 'https://www.bacanal.com.ar/wp-content/uploads/2019/08/flan-casero-mixto.jpg',
+    img: 'https://www.clarin.com/img/2020/02/18/nQSsF0CR_1256x620__1.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
@@ -156,7 +156,7 @@ const menu = [
     title: 'panqueque manzana al rhum',
     category: 'postres',
     price: 4.25,
-    img: 'https://lasrecetasdelchef.net/wp-content/uploads/2016/11/Panqueque-de-manzanas-al-ron.jpg',
+    img: 'https://i0.wp.com/www.marubotana.tv/wp-content/uploads/2014/07/panqueque-de-manzana-baja.jpg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
