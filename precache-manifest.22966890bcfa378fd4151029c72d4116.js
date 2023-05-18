@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1db07d882eb28678ca97",
-    "url": "/Menu_Parrilla/static/css/main.5df4bae0.chunk.css"
+    "revision": "4b8b76372f162482ace0",
+    "url": "/Menu_Parrilla/static/css/main.c12ebc43.chunk.css"
   },
   {
-    "revision": "1db07d882eb28678ca97",
-    "url": "/Menu_Parrilla/static/js/main.1db07d88.chunk.js"
+    "revision": "4b8b76372f162482ace0",
+    "url": "/Menu_Parrilla/static/js/main.4b8b7637.chunk.js"
   },
   {
     "revision": "d8d3626f81cd17781e32",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/Menu_Parrilla/static/media/resto-bg.2d2a60fb.jpeg"
   },
   {
-    "revision": "450d6e3e7facb0b856199ca60e8d5225",
+    "revision": "d1f7ba5817d429f16c3f97ed53320dab",
     "url": "/Menu_Parrilla/index.html"
   }
 ];
