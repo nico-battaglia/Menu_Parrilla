@@ -1,7 +1,7 @@
 {
-  "main.css": "/Menu_Parrilla/static/css/main.c12ebc43.chunk.css",
-  "main.js": "/Menu_Parrilla/static/js/main.4b8b7637.chunk.js",
-  "main.js.map": "/Menu_Parrilla/static/js/main.4b8b7637.chunk.js.map",
+  "main.css": "/Menu_Parrilla/static/css/main.88d9bf90.chunk.css",
+  "main.js": "/Menu_Parrilla/static/js/main.7b6ea1c1.chunk.js",
+  "main.js.map": "/Menu_Parrilla/static/js/main.7b6ea1c1.chunk.js.map",
   "static/js/1.d8d3626f.chunk.js": "/Menu_Parrilla/static/js/1.d8d3626f.chunk.js",
   "static/js/1.d8d3626f.chunk.js.map": "/Menu_Parrilla/static/js/1.d8d3626f.chunk.js.map",
   "runtime~main.js": "/Menu_Parrilla/static/js/runtime~main.41409250.js",
@@ -28,8 +28,8 @@
   "static/media/21_panqueque-de-manzana.jpg": "/Menu_Parrilla/static/media/21_panqueque-de-manzana.e63aa368.jpg",
   "static/media/23_helado.webp": "/Menu_Parrilla/static/media/23_helado.fa1823ee.webp",
   "static/media/index.css": "/Menu_Parrilla/static/media/resto-bg.2d2a60fb.jpeg",
-  "static/css/main.c12ebc43.chunk.css.map": "/Menu_Parrilla/static/css/main.c12ebc43.chunk.css.map",
+  "static/css/main.88d9bf90.chunk.css.map": "/Menu_Parrilla/static/css/main.88d9bf90.chunk.css.map",
   "index.html": "/Menu_Parrilla/index.html",
-  "precache-manifest.22966890bcfa378fd4151029c72d4116.js": "/Menu_Parrilla/precache-manifest.22966890bcfa378fd4151029c72d4116.js",
+  "precache-manifest.5a0cbbb8bc5dc2553dfbceb9930eb6c9.js": "/Menu_Parrilla/precache-manifest.5a0cbbb8bc5dc2553dfbceb9930eb6c9.js",
   "service-worker.js": "/Menu_Parrilla/service-worker.js"
 }
